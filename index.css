@@ -14,8 +14,7 @@ body {
 
 .gradient {
     background-color: #c7b9ff;
-    background-image:
-    -webkit-gradient(linear, left bottom, right top, from(#c7b9ff), to(#f3bf99));
+    background-image:-webkit-gradient(linear, left bottom, right top, from(#c7b9ff), to(#f3bf99));
     background-image: -webkit-linear-gradient(45deg, #c7b9ff, #f3bf99);
     background-image: -moz-linear-gradient(45deg, #c7b9ff, #f3bf99);
     background-image: -o-linear-gradient(45deg, #c7b9ff, #f3bf99);
